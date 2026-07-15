@@ -1,0 +1,207 @@
+{
+    "ContentCatalog": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "1"
+                    },
+                    "Title": {
+                        "S": "Host a Website on Amazon S3"
+                    },
+                    "URL": {
+                        "S": "aws-host-a-website-on-s3"
+                    },
+                    "Authors": {
+                        "L": [
+                            {
+                                "S": "Natasha"
+                            }
+                        ]
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "Difficulty": {
+                        "S": "Easy peasy"
+                    },
+                    "Published": {
+                        "BOOL": true
+                    },
+                    "ProjectCategory": {
+                        "S": "Storage"
+                    },
+                    "ContentType": {
+                        "S": "Project"
+                    }                
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "2"
+                    },
+                    "Title": {
+                        "S": "Visualize data with QuickSight"
+                    },
+                    "URL": {
+                        "S": "aws-analytics-quicksight"
+                    },
+                    "Authors": {
+                        "L": [
+                            {
+                                "S": "NextWork"
+                            }
+                        ]
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "Difficulty": {
+                        "S": "Easy peasy"
+                    },
+                    "Published": {
+                        "BOOL": true
+                    },
+                    "ProjectCategory": {
+                        "S": "Analytics"
+                    },
+                    "ContentType": {
+                        "S": "Project"
+                    }     
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "3"
+                    },
+                    "Title": {
+                        "S": "Build a Chatbot with Amazon Lex"
+                    },
+                    "URL": {
+                        "S": "aws-ai-lex1"
+                    },
+                    "Authors": {
+                        "L": [
+                            {
+                                "S": "NextWork"
+                            }
+                        ]
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "Difficulty": {
+                        "S": "Easy peasy"
+                    },
+                    "Published": {
+                        "BOOL": true
+                    },
+                    "ProjectCategory": {
+                        "S": "AI/ML"
+                    },
+                    "ContentType": {
+                        "S": "Project"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "201"
+                    },
+                    "Title": {
+                        "S": "AWS Relational vs Non Relational Databases in 6 minutes"
+                    },
+                    "URL": {
+                        "S": "https://youtu.be/SzvdEf9y0eA"
+                    },
+                    "VideoType": {
+                        "S": "Educational"
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "Services": {
+                        "L": [
+                            {
+                                "S": "Amazon RDS"
+                            },
+                            {
+                                "S": "Amazon DynamoDB"
+                            }
+                        ]
+                    },
+                    "ContentType": {
+                        "S": "Video"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "202"
+                    },
+                    "Title": {
+                        "S": "Don’t miss out!"
+                    },
+                    "URL": {
+                        "S": "https://youtube.com/shorts/xDAwEu8i3BA"
+                    },
+                    "VideoType": {
+                        "S": "Shorts"
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "ContentType": {
+                        "S": "Video"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "203"
+                    },
+                    "Title": {
+                        "S": "AWS x Databases project: Web App with Aurora Database"
+                    },
+                    "URL": {
+                        "S": "https://youtube.com/live/PCyE_iU6rrU"
+                    },
+                    "VideoType": {
+                        "S": "Live Project Demo"
+                    },
+                    "Price": {
+                        "N": "0"
+                    },
+                    "Services": {
+                        "L": [
+                            {
+                                "S": "Amazon EC2"
+                            },
+                            {
+                                "S": "Amazon Aurora"
+                            }
+                        ]
+                    },
+                    "ContentType": {
+                        "S": "Video"
+                    }
+                }
+            }
+        }
+    ]
+}

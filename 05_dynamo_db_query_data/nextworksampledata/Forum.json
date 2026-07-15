@@ -1,0 +1,24 @@
+{
+    "Forum": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Name": {"S":"I have a question"},
+                    "Category": {"S":"NextWorkCommunity"},
+                    "Posts": {"N":"2"},
+                    "Comments": {"N":"4"},
+                    "Views": {"N":"1000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Name": {"S":"Events"},
+                    "Category": {"S":"NextWorkCommunity"},
+                    "Posts": {"N":"1"}
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "Post": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ForumName": {
+                        "S": "I have a question"
+                    },
+                    "Subject": {
+                        "S": "Location of Documentation/ IAM User Setup for the projects."
+                    },
+                    "Message": {
+                        "S": "I’ve been seeing questions about where you can find the documentation for the projects, so I took some screen shots and put it in a document so it could help guide people that are new."
+                    },
+                    "LastPostedBy": {
+                        "S": "User Mitchell"
+                    },
+                    "LastPostedDateTime": {
+                        "S": "2024-09-01T19:58:22.514Z"
+                    },
+                    "Views": {
+                        "N": "200"
+                    },
+                    "Comments": {
+                        "N": "0"
+                    },
+                    "Answered": {
+                        "N": "0"
+                    },
+                    "Tags": {
+                        "L": [
+                            {
+                                "S": "stuck"
+                            },
+                            {
+                                "S": "IAM"
+                            },
+                            {
+                                "S": "documentation"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ForumName": {
+                        "S": "I have a question"
+                    },
+                    "Subject": {
+                        "S": "Just Complete Project #7 Dependencies and CodeArtifacts"
+                    },
+                    "Message": {
+                        "S": "Taking the command line and terminal to the next level."
+                    },
+                    "LastPostedBy": {
+                        "S": "User Mitchell"
+                    },
+                    "LastPostedDateTime": {
+                        "S": "2024-08-29T19:58:22.514Z"
+                    },
+                    "Views": {
+                        "N": "115"
+                    },
+                    "Comments": {
+                        "N": "0"
+                    },
+                    "Answered": {
+                        "N": "0"
+                    },
+                    "Tags": {
+                        "L": [
+                            {
+                                "S": "documentation"
+                            },
+                            {
+                                "S": "project"
+                            },
+                            {
+                                "S": "devops"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ForumName": {
+                        "S": "Events"
+                    },
+                    "Subject": {
+                        "S": "How I landed a job: Cloud Newbie to Solutions Architect"
+                    },
+                    "Message": {
+                        "S": "Please RSVP so you don't miss out!"
+                    },
+                    "LastPostedBy": {
+                        "S": "User Nat"
+                    },
+                    "LastPostedDateTime": {
+                        "S": "2024-09-28T19:58:22.514Z"
+                    },
+                    "Views": {
+                        "N": "0"
+                    },
+                    "Comments": {
+                        "N": "0"
+                    },
+                    "Answered": {
+                        "N": "0"
+                    },
+                    "Tags": {
+                        "L": [
+                            {
+                                "S": "guestspeaker"
+                            },
+                            {
+                                "S": "solutionsarchitect"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

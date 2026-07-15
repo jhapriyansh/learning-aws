@@ -1,0 +1,27 @@
+# Terraform working directory
+.terraform/
+
+# State files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+# Variable files containing secrets
+*.tfvars
+*.tfvars.json
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config
+.terraformrc
+terraform.rc
+
+# Lock file
+# Uncomment if you're writing modules and don't want to commit it
+.terraform.lock.hcl
