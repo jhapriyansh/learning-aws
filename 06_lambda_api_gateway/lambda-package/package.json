@@ -1,0 +1,8 @@
+{
+  "name": "retrieve-user-data",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.x",
+    "@aws-sdk/lib-dynamodb": "^3.x"
+  }
+}
