@@ -40,10 +40,10 @@ This project provides a series of tutorials and examples for learning Amazon Web
 2. Follow the instructions in the `README.md` file to deploy a Lambda function behind API Gateway.
 
 ## Architecture
-The project is organized into separate directories for each tutorial, with each directory containing a `README.md` file with instructions and examples. The tutorials demonstrate various AWS services and features, including S3, EC2, DynamoDB, and API Gateway.
+The project is organized into separate directories for each tutorial, with each directory containing the necessary code and configuration files for that specific tutorial. The tutorials demonstrate how to use the AWS CLI and Terraform to interact with various AWS services, including S3, EC2, DynamoDB, and API Gateway.
 
 ## Contributing
-To contribute to this project, please submit a pull request with your changes. Make sure to follow the existing code structure and conventions.
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more information.
