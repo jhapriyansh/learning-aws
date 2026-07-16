@@ -1,5 +1,5 @@
 # Learning AWS with Fakecloud
-This project provides a series of tutorials and examples for learning Amazon Web Services (AWS) using a local fakecloud instance. The tutorials cover various AWS services, including S3, EC2, DynamoDB, and API Gateway.
+This project provides a series of tutorials and examples for learning Amazon Web Services (AWS) using a local fakecloud instance. The tutorials cover various AWS services, including S3, EC2, DynamoDB, and API Gateway. The project demonstrates how to host a static website on S3, launch and control EC2 instances, create and query DynamoDB tables, and deploy a Lambda function behind API Gateway.
 
 ## Features
 * Host a static website on S3 using the AWS CLI
@@ -43,7 +43,7 @@ This project provides a series of tutorials and examples for learning Amazon Web
 The project is organized into separate directories for each tutorial, with each directory containing a `README.md` file with instructions and examples. The tutorials demonstrate various AWS services and features, including S3, EC2, DynamoDB, and API Gateway.
 
 ## Contributing
-To contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your changes are consistent with the existing code and documentation.
+To contribute to this project, please submit a pull request with your changes. Make sure to follow the existing code structure and conventions.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
